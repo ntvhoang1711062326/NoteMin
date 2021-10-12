@@ -3,11 +3,11 @@ const textConfig = {
   text2: "    ",
   text3: "Hạnh phúc của anh chính là vì em mà cố gắng, vì em mà thay đổi. Em chính là động lực tuyệt vời nhất trong cuộc đời anh",
   text4: "Cám ơn em đã cho a niềm vui ",
-  text5: " ",
+  text5: "",
   text6: "Bấm đi ",
   text7: "Em nghĩ sao về anh?",
   text8: "Send",
-  text9: " ",
+  text9: "",
   text10: "Cám ơn trời đã cho anh gặp em.",
   text11:
     "Có một lời anh vẫn chỉ muốn nói với em 'Anh yêu em 💗'.",
